@@ -1,4 +1,3 @@
-- **IMPORTANT: IF YOU VISITED MY PROFILE THROUGH UPWORK OR ANY FREELANCING WEBSITE, THAT MUST BE THE FAKE ACCOUNT.**
 - 👋 Hi, I’m @pzanzane
 -    I’m Android Apps developer and working as a Software Engineer since 2011.
 -    Currently I am working as TVC at "Google Inc" through one of the organisation in India.
