@@ -9,4 +9,4 @@ pzanzane/pzanzane is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/pzanzane/pzanzane/blob/main/Screenshot%202025-01-04%20at%208.26.57%20PM.png)?raw=true)
+![stack Overflow](http://lmsotfy.com/so.png)
